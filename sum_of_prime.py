@@ -23,9 +23,6 @@ def isPrime(value):
 	return True
 
 if __name__=='__main__':
-	#for i in xrange(1,1000):
-	#	if isPrime(i):
-	#		print i
 	file=open('isPrime', 'w')
 	i=2
 	result=0
