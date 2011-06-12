@@ -1,5 +1,5 @@
 def isPrime(value):
-	if value==1:
+	if value<=1:
 		return False
 	else:
 		for i in xrange(2, value):
