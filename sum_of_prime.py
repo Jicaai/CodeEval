@@ -1,13 +1,15 @@
-#Sum of Primes
+# Sum of Primes
+'''
+Description:
+Write a program to determine the sum of the first 1000 prime numbers.
+Input sample:
+None
 
-#Description:
-#Write a program to determine the sum of the first 1000 prime numbers.
-#Input sample:
-#None
+Output sample:
+Your program should print the sum on stdout.i.e.
+3682913
+'''
 
-#Output sample:
-#Your program should print the sum on stdout.i.e.
-#3682913
 
 # -*- coding: utf-8 -*-
 # Author: Tiny
