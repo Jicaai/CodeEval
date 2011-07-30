@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author: Tiny
+# Date  : July 22, 2011
+# email : plakitboy@gmail.com
+
 # Set Intersection
 '''
 Description:
@@ -14,10 +19,6 @@ e.g.
 4
 8,9
 '''
-# -*- coding: utf-8 -*-
-# Author: Tiny
-# Date  : July 22, 2011
-# email : plakitboy@gmail.com
 
 import sys
 file = open(sys.argv[1],'r')

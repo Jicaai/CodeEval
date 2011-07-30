@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author: Tiny
+# Date  : July 14, 2011
+# email : plakitboy@gmail.com
+
 # File size
 '''
 Description:
@@ -13,12 +18,6 @@ e.g.
 
 55
 '''
-
-
-# -*- coding: utf-8 -*-
-# Author: Tiny
-# Date  : July 14, 2011
-# email : plakitboy@gmail.com
 
 
 import os.path

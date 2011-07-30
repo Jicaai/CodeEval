@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author: Tiny
+# Date  : June 11, 2011
+# email : plakitboy@gmail.com
+
 # Prime Palindrome
 '''
 Description:
@@ -11,11 +16,6 @@ Your program should print the largest palindrome on stdout. i.e.
 929
 '''
 
-
-# -*- coding: utf-8 -*-
-# Author: Tiny
-# Date  : June 11, 2011
-# email : plakitboy@gmail.com
 
 def Palindrome(top):
 	for i in reversed(xrange(top)):

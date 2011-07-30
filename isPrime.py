@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author: Tiny
+# Date  : June 11, 2011
+# email : plakitboy@gmail.com
+
 def isPrime(value):
 	if value<=1:
 		return False

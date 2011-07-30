@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author: Tiny
+# Date  : June 11, 2011
+# email : plakitboy@gmail.com
+
 # Fizz Buzz
 '''
 Description:
@@ -21,10 +26,7 @@ Print out the series 1 through N replacing numbers divisible by 'A' by F, number
 '''
 
 
-# -*- coding: utf-8 -*-
-# Author: Tiny
-# Date  : June 11, 2011
-# email : plakitboy@gmail.com
+
 import sys
 
 def fizzbuzz(fizz, buzz, count):

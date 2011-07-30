@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author: Tiny
+# Date  : June 12, 2011
+# email : plakitboy@gmail.com
+
 # Reverse words
 '''
 Description:

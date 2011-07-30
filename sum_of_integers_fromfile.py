@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author: Tiny
+# Date  : July 14, 2011
+# email : plakitboy@gmail.com
+
 # Sum of Intergers form files
 '''
 Description:
@@ -13,11 +18,6 @@ e.g.
 17
 '''
 
-
-# -*- coding: utf-8 -*-
-# Author: Tiny
-# Date  : July 14, 2011
-# email : plakitboy@gmail.com
 
 import sys
 if __name__=='__main__':

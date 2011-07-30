@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author: Tiny
+# Date  : June 21, 2011
+# email : plakitboy@gmail.com
+
 # Sum of Digits
 '''
 Description:
@@ -14,10 +19,7 @@ e.g.
 5
 19
 '''
-# -*- coding: utf-8 -*-
-# Author: Tiny
-# Date  : June 21, 2011
-# email : plakitboy@gmail.com
+
 import sys
 
 if __name__=='__main__':

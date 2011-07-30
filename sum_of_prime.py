@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author: Tiny
+# Date  : June 11, 2011
+# email : plakitboy@gmail.com
+
 # Sum of Primes
 '''
 Description:
@@ -9,12 +14,6 @@ Output sample:
 Your program should print the sum on stdout.i.e.
 3682913
 '''
-
-
-# -*- coding: utf-8 -*-
-# Author: Tiny
-# Date  : June 11, 2011
-# email : plakitboy@gmail.com
 
 def isPrime(value):
 	for i in xrange(2, value):

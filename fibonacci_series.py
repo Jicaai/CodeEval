@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Author: Tiny
+# Date  : June 21, 2011
+# email : plakitboy@gmail.com
+
 # Fibonacci Series
 '''
 Description:
@@ -15,10 +20,7 @@ e.g.
 5
 144
 '''
-# -*- coding: utf-8 -*-
-# Author: Tiny
-# Date  : June 21, 2011
-# email : plakitboy@gmail.com
+
 import sys
 
 def fabonacci(n):
